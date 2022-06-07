@@ -47,6 +47,7 @@ module.exports = {
           '_n',
           '_t',
           '_text',
+
         ],
       },
     ],
