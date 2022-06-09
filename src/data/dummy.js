@@ -525,6 +525,24 @@ export const links = [
       // },
     ],
   },
+  {
+    title: 'Register',
+    links: [
+      {
+        name: 'register',
+        icon: <FiEdit />,
+      },
+    ],
+  },
+  {
+    title: 'Register',
+    links: [
+      {
+        name: 'reports',
+        icon: <FiEdit />,
+      },
+    ],
+  },
   // {
   //   title: 'Charts',
   //   links: [

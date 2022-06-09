@@ -11,6 +11,8 @@ const Editor = () => (
       <EditorData />
       <Inject services={[HtmlEditor, Toolbar, Image, Link, QuickToolbar]} />
     </RichTextEditorComponent>
+    <button type="submit"> Submit</button>
   </div>
+
 );
 export default Editor;
